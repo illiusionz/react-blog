@@ -7,7 +7,6 @@ class PostList extends React.Component {
       this.props.fetchPosts();
    }
 
-
    render(){
       return <div>PostList</div>;
    }
